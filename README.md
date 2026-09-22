@@ -44,7 +44,3 @@ To analyze US restaurant menu data using Python and identify meaningful insights
 * Seaborn
 * Plotly
 * Jupyter Notebook
-
-
-
-Dataset: [US Restaurant Menus – Hugging Face](https://huggingface.co/datasets/AnyStackLabsdev/souslab-us-restaurant-menus?library=datasets)
