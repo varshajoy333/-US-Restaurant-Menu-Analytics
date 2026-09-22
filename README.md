@@ -18,11 +18,10 @@ To analyze US restaurant menu data using Python and identify meaningful insights
 
 ### 📌 Project Phases
 
-* **Phase 1 – Data Loading & Overview:** Loaded the dataset and examined its structure, dimensions, columns, data types, missing values, and initial records.
-* **Phase 2 – Data Cleaning & Preprocessing:** Handled missing values, removed duplicate records, dropped unnecessary columns, and prepared the dataset for analysis.
-* **Phase 3 – Exploratory Data Analysis (EDA):** Performed univariate, bivariate, and multivariate analysis to identify patterns, relationships, distributions, and trends.
-* **Phase 4 – Data Visualizations:** Created histograms, box plots, bar charts, scatter plots, heatmaps, and geographical visualizations to communicate findings effectively.
-* **Phase 5 – Analysis & Reporting:** Interpreted the analytical results, identified key insights, examined patterns and outliers, and presented conclusions, recommendations, and future scope.
+* **Phase 1 – Initial Data Understanding:** Loaded the dataset and examined its structure, dimensions, columns, data types, missing values, and initial records.
+* **Phase 2 – Data Preprocessing:** Handled missing values, removed duplicate records, dropped unnecessary columns, and prepared the dataset for analysis.
+* **Phase 3 – Exploratory Data Analysis (EDA):** Performed univariate, bivariate, and multivariate analysis to identify patterns, relationships, distributions, trends and visualizations to communicate findings effectively.
+* **Phase 4 – Overall Summary & Final Recommendations:** Interpreted the analytical results, identified key insights, examined patterns and outliers, and presented conclusions, recommendations, and future scope.
 
 ### 🔍 Key Areas of Analysis
 
