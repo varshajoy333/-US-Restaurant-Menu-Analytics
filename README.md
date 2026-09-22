@@ -4,6 +4,14 @@ A Python-based data analytics project that explores US restaurant menu data to i
 
 The project covers the complete data analytics workflow, including **data loading, data cleaning, missing-value handling, duplicate removal, feature creation, exploratory data analysis (EDA), statistical analysis, correlation analysis, and data visualization**.
 
+### 📂 Dataset Source
+
+Dataset: [US Restaurant Menus – Hugging Face](https://huggingface.co/datasets/AnyStackLabsdev/souslab-us-restaurant-menus?library=datasets)
+
+### 🎯 Objective
+
+To transform raw restaurant menu data into meaningful insights through data cleaning, exploratory analysis, statistical techniques, and visualization.
+
 ### 🔍 Key Areas of Analysis
 
 * Menu price distribution and pricing patterns
@@ -26,7 +34,4 @@ The project covers the complete data analytics workflow, including **data loadin
 * Plotly
 * Jupyter Notebook
 
-### 🎯 Objective
-
-To transform raw restaurant menu data into meaningful insights through data cleaning, exploratory analysis, statistical techniques, and visualization.
 
